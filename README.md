@@ -7,3 +7,5 @@ First attempt at CUDA programming.
 
 # NACJAC
 Local pcg32 sequence bruteforcer GUI. Returns the amount of state changes required to reach said sequence.
+
+@jayboyroblox500000 on Discord
