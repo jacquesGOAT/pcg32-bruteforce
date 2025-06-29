@@ -2,7 +2,7 @@
 Bruteforcing tools used for cracking LuaU pcg32 states on ROBLOX.
 
 # pcg32r
-The main project and solution. CLI tool for bruteforcing pcg32 states given a sequence of integers or doubles.
+The main project and solution. CLI tool for bruteforcing pcg32 states given a sequence of integers or doubles. Debug builds contain command line arguments.
 First attempt at CUDA programming.
 
 # NACJAC
